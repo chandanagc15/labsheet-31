@@ -40,6 +40,7 @@ public class SimpleCalculator {
         }
 
         System.out.println("Result: " + result);
+        System.out.println("updated");
         sc.close();
     }
 }
